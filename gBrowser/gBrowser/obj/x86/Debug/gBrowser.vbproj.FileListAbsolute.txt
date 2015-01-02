@@ -1,0 +1,18 @@
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\bin\Debug\gBrowser.exe
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\bin\Debug\gBrowser.pdb
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\bin\Debug\gBrowser.xml
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\obj\x86\Debug\gBrowser.gBrowser.resources
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\obj\x86\Debug\gBrowser.Resources.resources
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\obj\x86\Debug\gBrowser.vbproj.GenerateResource.Cache
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\obj\x86\Debug\gBrowser.exe
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\obj\x86\Debug\gBrowser.xml
+C:\Users\lul\AppData\Local\Temporary Projects\gBrowser\obj\x86\Debug\gBrowser.pdb
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\obj\x86\Debug\gBrowser.exe
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\obj\x86\Debug\gBrowser.xml
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\obj\x86\Debug\gBrowser.pdb
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\bin\Debug\gBrowser.exe
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\bin\Debug\gBrowser.pdb
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\bin\Debug\gBrowser.xml
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\obj\x86\Debug\gBrowser.gBrowser.resources
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\obj\x86\Debug\gBrowser.Resources.resources
+C:\Users\lul\documents\visual studio 2010\Projects\gBrowser\gBrowser\obj\x86\Debug\gBrowser.vbproj.GenerateResource.Cache

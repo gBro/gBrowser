@@ -1,0 +1,9 @@
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\bin\Release\gBrowser.exe
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\bin\Release\gBrowser.pdb
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\bin\Release\gBrowser.xml
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\obj\x86\Release\gBrowser.gBrowser.resources
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\obj\x86\Release\gBrowser.Resources.resources
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\obj\x86\Release\gBrowser.vbproj.GenerateResource.Cache
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\obj\x86\Release\gBrowser.exe
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\obj\x86\Release\gBrowser.xml
+C:\Users\lul\Documents\Visual Studio 2010\Projects\gBrowser\gBrowser\obj\x86\Release\gBrowser.pdb
